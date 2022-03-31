@@ -1,0 +1,36 @@
+body{
+	background: rgb(243, 241, 241);
+}
+.header{
+	background-color: rgb(18, 18, 19);
+	height: 65px;
+}
+.header ul{
+	list-style: none;
+	line-height: 67px;
+}
+.header ul li{
+	float: left;
+	width: 70px;
+	text-align: center;
+}
+.header ul li a{
+	color: white;
+	text-decoration: none;
+	font-family: monospace;
+	display: block;
+}
+.header ul li a:hover{
+	background-color: rgb(15, 77, 9);
+}
+.contain{
+	background: black;
+	height: 2px;
+    width: ;
+}
+.h1{
+    text-align: center;
+    color: blue;
+    size: 0ex;
+    font-family: 'Courier New', Courier, monospace;
+}
